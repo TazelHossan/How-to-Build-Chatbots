@@ -1,0 +1,10 @@
+
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=8155a14a-cdff-4832-8e98-5cda39cea357&serviceInstanceID=5c7ae0a2-7b6b-4bef-8500-dda8624ddb7b
+
+
+Assistant URL:
+https://api.us-south.assistant.watson.cloud.ibm.com/instances/5c7ae0a2-7b6b-4bef-8500-dda8624ddb7b/v2/assistants/4ec69fb4-a196-448f-91e0-1f7ddbc28a30/sessions
+
+
+API key:
+y3xdn-aDsCL4xP0_00w3EDMyAHFdOPc9wp6S0FA7__qH
